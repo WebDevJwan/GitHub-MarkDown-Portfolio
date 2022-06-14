@@ -1,13 +1,16 @@
 <!-- Replace this with a list of your favorite things. -->
 
-👇GitHub markdown allows us to do a variety of things such as emojis and list👇
+👇 GitHub markdown allows us to do a variety of things such as emojis and list 👇
 
-#### Ordered List:
-1. Yahweh
-2. Jehovah
-3. God
+#### Experience✨:
+Freelance Web Developer, Orlando, FL
+1. [Wedding Website](https://proverbs18-22.epizy.com)
+2. [Barbershop Website](https://centralbarberlounge.com)
 
-  #### Nested List:<b>
+Orange County Fire & Rescue Department, Orlando, FL 
+1. Professional On-Call Data Analyst
+
+#### Nested List:<b>
   1. Fruits   
     - Apples
       * Red
@@ -17,8 +20,7 @@
       * Green
         - Straight / Circle
   
-  
-#### Unorderd List:
+#### Unordered List:
   * Item 1
   * Item 2
   * Item 3
