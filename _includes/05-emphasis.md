@@ -7,7 +7,7 @@ __This will also be bold__
 
 _You **can** combine them_ -->
 
-Some of my Skills✨:
+#### Some of my Skills✨:
 - **_HTLM5_**		    
 - _CSS3_
 - JavaScript (ES6) 
